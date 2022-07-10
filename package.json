@@ -1,0 +1,28 @@
+{
+  "name": "testing-practice",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest",
+    "watch": "jest --watch *.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/lopezac/testing-practice.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/lopezac/testing-practice/issues"
+  },
+  "homepage": "https://github.com/lopezac/testing-practice#readme",
+  "devDependencies": {
+    "@babel/core": "^7.18.6",
+    "@babel/preset-env": "^7.18.6",
+    "babel-jest": "^28.1.2",
+    "eslint": "^8.19.0",
+    "eslint-plugin-jest": "^26.5.3",
+    "prettier": "2.7.1"
+  }
+}
